@@ -1,0 +1,1 @@
+"""Core logic: prompt assembly, SQL guard, dialect resolution."""
