@@ -1,0 +1,1 @@
+"""Dialect registry. Each module exposes a `Dialect` instance."""
