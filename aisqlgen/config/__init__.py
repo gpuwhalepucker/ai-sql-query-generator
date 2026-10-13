@@ -1,0 +1,1 @@
+"""Config layer: schema-validated app config, loader, defaults."""
